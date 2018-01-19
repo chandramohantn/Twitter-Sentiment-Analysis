@@ -1,0 +1,6 @@
+{"ab": "about"}
+{"abt": "about"}
+{"adventuritter": "Twitterer who is adventurous"}
+{"attwaction": "attraction"}
+{"attwicted": "addicted to Twitter"}
+
